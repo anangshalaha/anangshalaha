@@ -31,13 +31,6 @@ figma • git • vscode
 
 ## projects
 
-**drone path planner**  
-uav pathfinding visualizer (a* + dijkstra)  
-→ spring boot + react  
-
-**portgenie**  
-portfolio generator with live preview & themes  
-
 **mood-based playlist ui**  
 design project focused on emotion-driven ux  
 
